@@ -1,0 +1,10 @@
+streamlit
+requests
+re
+newspaper3k
+wordcloud
+matplotlib
+textblob
+scikit-learn
+numpy
+joblib
